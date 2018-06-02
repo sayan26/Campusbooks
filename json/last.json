@@ -1,0 +1,10 @@
+PUT https://api.thingspeak.com/channels/207179
+    api_key=3XX2MH6R5AXM5RB8
+    name=Updated Channel
+    
+    
+{
+	"created_at":"",
+	"entry_id":(entry_id)"field1":"","field2":"","field3":"","field4":"","field5":"","field6":"","field7":"","field8":""
+	
+}
